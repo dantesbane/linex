@@ -58,7 +58,7 @@ static void __exit process_filter_exit(void) {
 }
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Manav Jarial");
 MODULE_DESCRIPTION("Enhanced process listing module with state and name filtering.");
 MODULE_VERSION("0.1");
 
